@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-![Logo](https://storage.googleapis.com/model_garden_artifacts/TF_Model_Garden.png)
-
 # Welcome to the Model Garden for TensorFlow
 
 The TensorFlow Model Garden is a repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow users. We aim to demonstrate the best practices for modeling so that TensorFlow users can take full advantage of TensorFlow for their research and product development.
@@ -19,7 +16,3 @@ If you want to contribute to models, please review the [contribution guidelines]
 
 ## License
 
-[Apache License 2.0](LICENSE)
-=======
-# tensorflow_Object_Detection-
->>>>>>> 4d8bc6061987fc9a39fb9fdaa53e924ec2485504
