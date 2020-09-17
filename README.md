@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Logo](https://storage.googleapis.com/model_garden_artifacts/TF_Model_Garden.png)
 
 # Welcome to the Model Garden for TensorFlow
@@ -19,3 +20,6 @@ If you want to contribute to models, please review the [contribution guidelines]
 ## License
 
 [Apache License 2.0](LICENSE)
+=======
+# tensorflow_Object_Detection-
+>>>>>>> 4d8bc6061987fc9a39fb9fdaa53e924ec2485504
